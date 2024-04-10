@@ -1,3 +1,6 @@
 x.txt
 testa/*
 !testa/1.txt
+t.txt
+testb/*
+!testb/1.txt
