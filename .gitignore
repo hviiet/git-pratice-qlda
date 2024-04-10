@@ -1,2 +1,3 @@
-t.txt
 x.txt
+testa/*
+!testa/1.txt
