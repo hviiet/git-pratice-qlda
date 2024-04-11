@@ -1,1 +1,1 @@
-Sample text goes here
+CONFLICT MERGE
