@@ -1,2 +1,2 @@
-aaaaa
-
+This is the main file of the practice project.
+Bai thuc hanh so 4
