@@ -1,2 +1,2 @@
 # git-pratice-qlda
-git fetch
+git fetch edit
